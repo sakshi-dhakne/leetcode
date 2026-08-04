@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sakshi-dhakne/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshi-dhakne/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/sakshi-dhakne/leetcode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sakshi-dhakne/leetcode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/sakshi-dhakne/leetcode/tree/master/0205-isomorphic-strings) |
 ## Sorting
 |  |
 | ------- |
