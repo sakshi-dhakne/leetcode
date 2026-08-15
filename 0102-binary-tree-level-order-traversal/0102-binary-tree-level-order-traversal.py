@@ -11,32 +11,29 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[List[int]]
         """
-        from collections import deque
-        def level(root):
-            result = []
-            queue = deque()
-            queue.append(root)
+        result = []
+        queue = deque()
+        queue.append(root)
 
-            if root == None:
-                return []
+        if root == None:
+            return []
 
-            while len(queue)!=0:
-                level = len(queue)
-                curr = []
-                for _ in range(level):
-                    e = queue.popleft()
-                    curr.append(e.val)
+        while len(queue)!=0:
+            level = len(queue)
+            curr = []
+            for _ in range(level):
+                e = queue.popleft()
+                curr.append(e.val)
 
-                    if e.left != None:
-                        queue.append(e.left)
-                    if e.right != None:
-                        queue.append(e.right)
+                if e.left != None:
+                    queue.append(e.left)
+                if e.right != None:
+                    queue.append(e.right)
             
-                result.append(curr)
-            return result
+            result.append(curr)
+        return result
             
 
-        return level(root)
-        
+  
         
         
