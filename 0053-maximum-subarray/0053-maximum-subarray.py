@@ -4,8 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        if len(nums)<=0:
-            return nums
+        if len(nums)<=1:
+            return nums[0]
         curr = 0
         best = nums[0]
         for i in range(len(nums)):
