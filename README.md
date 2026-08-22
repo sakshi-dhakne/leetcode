@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sakshi-dhakne/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshi-dhakne/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/sakshi-dhakne/leetcode/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/sakshi-dhakne/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sakshi-dhakne/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sakshi-dhakne/leetcode/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0912-sort-an-array) |
 ## Union-Find
 |  |
@@ -86,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sakshi-dhakne/leetcode/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sakshi-dhakne/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sakshi-dhakne/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshi-dhakne/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
