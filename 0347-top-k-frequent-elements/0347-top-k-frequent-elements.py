@@ -21,6 +21,6 @@ class Solution(object):
 
         for key,value in heap:
             result.append(value)
-            heapq.heapify(result)
+            
 
         return result
