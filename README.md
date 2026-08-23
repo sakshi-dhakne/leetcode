@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sakshi-dhakne/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/sakshi-dhakne/leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sakshi-dhakne/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/sakshi-dhakne/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sakshi-dhakne/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshi-dhakne/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/sakshi-dhakne/leetcode/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/sakshi-dhakne/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sakshi-dhakne/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sakshi-dhakne/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sakshi-dhakne/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0912-sort-an-array) |
 ## Union-Find
 |  |
@@ -89,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sakshi-dhakne/leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sakshi-dhakne/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sakshi-dhakne/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -102,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshi-dhakne/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -110,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sakshi-dhakne/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
@@ -163,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sakshi-dhakne/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
