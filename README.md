@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sakshi-dhakne/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sakshi-dhakne/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sakshi-dhakne/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sakshi-dhakne/leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshi-dhakne/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/sakshi-dhakne/leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -176,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sakshi-dhakne/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sakshi-dhakne/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sakshi-dhakne/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
