@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sakshi-dhakne/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sakshi-dhakne/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/sakshi-dhakne/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sakshi-dhakne/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/sakshi-dhakne/leetcode/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/sakshi-dhakne/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
