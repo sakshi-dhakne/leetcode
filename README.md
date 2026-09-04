@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sakshi-dhakne/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/sakshi-dhakne/leetcode/tree/master/1929-concatenation-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sakshi-dhakne/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sakshi-dhakne/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/sakshi-dhakne/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sakshi-dhakne/leetcode/tree/master/0509-fibonacci-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sakshi-dhakne/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
