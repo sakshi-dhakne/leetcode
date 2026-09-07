@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sakshi-dhakne/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/sakshi-dhakne/leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/sakshi-dhakne/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sakshi-dhakne/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/sakshi-dhakne/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/sakshi-dhakne/leetcode/tree/master/0912-sort-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshi-dhakne/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/sakshi-dhakne/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sakshi-dhakne/leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/sakshi-dhakne/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sakshi-dhakne/leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sakshi-dhakne/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
